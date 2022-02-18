@@ -1,18 +1,8 @@
-# DESAFIO-DE-PROGRAMA-O---ACADEMIA-CAPGEMINI
+# DESAFIO-DE-PROGRAMAÇÃO - ACADEMIA CAPGEMINI
 
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-## Desenvolver aplicações conforme questões do desafio.
-
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-   * [Tecnologias](#tecnologias)
-<!--te-->
+## Desenvolver aplicações conforme questões do desafio
 
 <h4 align="center"> 
  🚀 Javascript concluído...👌
